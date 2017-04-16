@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Continuous rss scrolling\n"
+"POT-Creation-Date: 2016-11-22 22:54+0800\n"
+"PO-Revision-Date: 2016-11-22 22:54+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../continuous-rss-scrolling.php:132 ../continuous-rss-scrolling.php:137
+#: ../continuous-rss-scrolling.php:272 ../continuous-rss-scrolling.php:277
+msgid "No data available"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:299 ../continuous-rss-scrolling.php:389
+#: ../continuous-rss-scrolling.php:390 ../continuous-rss-scrolling.php:423
+msgid "Continuous rss scrolling"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:331
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:336
+msgid "Plugin setting"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:339 ../continuous-rss-scrolling.php:490
+msgid "Title"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:341
+msgid "Please enter your widget title."
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:343
+msgid "Scroll height"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:345
+msgid ""
+"If any overlap in the announcement text at front end, <br>you should arrange"
+"(increase/decrease) the above height."
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:347 ../continuous-rss-scrolling.php:504
+msgid "Display count"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:349
+msgid ""
+"Please enter number of records you want to display at the same time in "
+"scroll."
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:351 ../continuous-rss-scrolling.php:499
+msgid "Display length"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:353
+msgid "Please enter max number of character to display in the scroll."
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:355 ../continuous-rss-scrolling.php:494
+msgid "RSS url"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:357
+msgid "Please enter your RSS url."
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:359 ../continuous-rss-scrolling.php:515
+msgid "Scrolling speed"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:360
+msgid "Slow"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:362
+msgid "Fast"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:363 ../continuous-rss-scrolling.php:529
+msgid "Select how fast you want the to scroll the items."
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:365 ../continuous-rss-scrolling.php:532
+msgid "Seconds to wait"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:367
+msgid "How many seconds you want the wait to scroll"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:367
+msgid "Example"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:372
+msgid "Help"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:376
+msgid "Plugin configuration option"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:378
+msgid "Drag and drop the widget to your sidebar."
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:379
+msgid "Add directly in to the theme using PHP code."
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:381
+msgid "Check official website for more information"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:382 ../continuous-rss-scrolling.php:537
+msgid "click here"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:421
+msgid "Create the vertical scroll in the widget using given rss feed"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:509
+msgid "Height"
+msgstr ""
+
+#: ../continuous-rss-scrolling.php:534
+msgid "How many seconds you want to wait to scroll. Enter only number."
+msgstr ""
